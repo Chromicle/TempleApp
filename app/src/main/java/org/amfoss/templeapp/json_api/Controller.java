@@ -14,7 +14,7 @@ public class Controller {
     public static final String TAG = "TAG";
 
     public static final String WAURL =
-            "https://script.google.com/macros/s/AKfycbyPjM-IwzRxTgMDIw05BsmUpAjolx86BvuKIY9iVbvk/dev?";
+            "https://script.google.com/macros/s/AKfycbxcv0uOgX0M0SRUTgXEkQkegjQlmOjd7aXSVB8-/exec?";
 
     private static Response response;
 

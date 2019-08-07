@@ -31,8 +31,6 @@ spotless {
         indentWithTabs(2)
         indentWithSpaces(4)
         target '**/*.java'
-        trimTrailingWhitespace()
-        removeUnusedImports()
     }
 }
 

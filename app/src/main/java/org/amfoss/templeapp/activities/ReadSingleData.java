@@ -50,14 +50,13 @@ public class ReadSingleData extends AppCompatActivity {
                 case R.id.radio_donate:
                     binding.totalView.setVisibility(View.VISIBLE);
                     flag = 0;
-                    Toast.makeText(getBaseContext(), getString(R.string.selected_donate), Toast.LENGTH_SHORT)
+                    Toast.makeText(getBaseContext(), getString(R.string.search_donations), Toast.LENGTH_SHORT)
                             .show();
                     break;
                 case R.id.radio_pooja:
                     binding.totalView.setVisibility(View.VISIBLE);
                     flag = 1;
-                    Toast.makeText(
-                                    getBaseContext(), getString(R.string.selected_register), Toast.LENGTH_SHORT)
+                    Toast.makeText(getBaseContext(), getString(R.string.search_poojas), Toast.LENGTH_SHORT)
                             .show();
                     break;
             }

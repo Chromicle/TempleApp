@@ -91,6 +91,7 @@ public class InsertData extends AppCompatActivity {
                     insertDataBinding.totalView.setVisibility(View.VISIBLE);
                     insertDataBinding.moneyDonated.setVisibility(View.GONE);
                     insertDataBinding.spinner1.setVisibility(View.VISIBLE);
+                    insertDataBinding.amount.setVisibility(View.VISIBLE);
                     id = getString(R.string.REG);
                     flag = 1;
                     Toast.makeText(

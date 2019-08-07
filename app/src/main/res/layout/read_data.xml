@@ -53,11 +53,11 @@
             <EditText
                 android:id="@+id/editText_id"
                 android:layout_width="match_parent"
-                android:layout_height="@dimen/height_40"
+                android:layout_height="@dimen/height_50"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentTop="true"
-                android:layout_margin="@dimen/height_40"
+                android:layout_margin="@dimen/margin_45"
                 android:hint="@string/user_id" />
 
 

@@ -7,7 +7,7 @@
     <string name="delete_pooja">Selected To Delete Registered Pooja</string>
     <string name="REG">REG</string>
     <string name="DON">DON</string>
-    <string name="wait">Hey Wait Please...</string>
+    <string name="wait">Please Wait</string>
     <string name="deleting">Deleting...</string>
     <string name="id_value">IDVALUE</string>
     <string name="json_obj">Json obj</string>
@@ -17,12 +17,12 @@
     <string name="select_pooja_type">Select Pooja Type</string>
     <string name="PAID">PAID</string>
     <string name="NOT_PAID">NOT PAID</string>
-    <string name="valid_ID">Please enter a valid user ID</string>
+    <string name="valid_ID">Please enter a valid employee ID</string>
     <string name="insert">Inserting your values..</string>
     <string name="exception">exception</string>
     <string name="UPDATE">Selected To update donated money details</string>
     <string name="update_pooja">Selected To update Registered Pooja details</string>
-    <string name="JSON">I am getting your JSON</string>
+    <string name="JSON">Fetching Data</string>
     <string name="ID_value">IDVALUE</string>
     <string name="user">user</string>
     <string name="ID">ID:</string>
@@ -31,7 +31,7 @@
     <string name="name_">NAME</string>
     <string name="type_of_pooja">Type of pooja:</string>
     <string name="money_donated">Money Donated:</string>
-    <string name="paid_status">Paid Staus:</string>
+    <string name="paid_status">Paid Status:</string>
     <string name="id_not_found">ID not found</string>
     <string name="internet_warn">You need internet connection for this app. Please turn on mobile network or Wi-Fi in Settings.</string>
     <string name="unable_to_connect">Unable to connect</string>
@@ -43,7 +43,7 @@
     <string name="enter_money_donated">Enter Money Donated</string>
     <string name="people_who_registered_for_pooja">People Who Registered For Pooja</string>
     <string name="people_who_donated_money_for_temple">People Who Donated Money For Temple</string>
-    <string name="user_id">User ID</string>
+    <string name="employee_id">Employee ID</string>
     <string name="delete">Delete</string>
     <string name="register_for_new_pooja">Register For New Pooja</string>
     <string name="donate_money_to_temple">Donate Money To Temple</string>
@@ -62,6 +62,8 @@
     <string name="nothingselected">Nothing selected</string>
     <string name="custompooja">Custom Pooja</string>
     <string name="amount_in_rs">Amount:                                         Rs.</string>
+    <string name="search_donations">Selected to search for donations</string>
+    <string name="search_poojas">Selected to search for registered poojas</string>
 
 
     <string-array name="pooja_types">
